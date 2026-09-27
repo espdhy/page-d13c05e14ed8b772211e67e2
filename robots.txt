@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.wuvdrd.cn/sitemap.xml
